@@ -1,19 +1,25 @@
-<center>
+<div align="center">
+  
 # Hi, I'm Haley 👋
 
-**ERP, CRM, 쇼핑몰 등 다양한 도메인 경험을 바탕으로** **사용자의 입장에서 프로그램을 이해하고 개발하는 개발자입니다.**
+**ERP, CRM, 쇼핑몰 등 다양한 도메인 경험을 바탕으로**<br>
+**사용자의 입장에서 프로그램을 이해하고 개발합니다.**
 <br>
-<br>
+<br><br>
 
 ### About Me
-- 태도와 커뮤니케이션을 가장 중요하게 생각합니다. <br>
-- 정확한 질문을 통해 원하는 답변을 빠르게 찾아냅니다.  <br>
-- 사용자의 언어와 개발자의 언어를 연결하는 원활한 브릿지 역할을 수행합니다. <br>
+태도와 커뮤니케이션을 가장 중요하게 생각합니다. <br>
+정확하게 질문하여 원하는 답변을 빠르게 찾아냅니다.  <br>
+사용자의 언어와 개발자의 언어를 연결하는 원활한 브릿지 역할을 수행합니다. <br><br><br>
+</div>
+
 
 ---
+
 ### 🛠 Tech Stack
 
 <font size="2">
+<br>
 
 **Backend**
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -52,8 +58,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jirasoftware&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white)
 
-</font>
-
+</font><br>
 ---
 
 ### Interests & Fun
