@@ -61,29 +61,38 @@
 </font><br>
 ---
 
-### Interests & Fun
+### 🎢 Interests & Fun
 <font size="2">
 
-![Google Anti-gravity](https://img.shields.io/badge/Google_Anti--gravity-4285F4?style=flat-square&logo=google&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75FF?style=flat-square&logo=googlegemini&logoColor=white)
-![AI Studio](https://img.shields.io/badge/AI_Studio-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![GPT](https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![NotebookLM](https://img.shields.io/badge/NotebookLM-34A853?style=flat-square&logo=google&logoColor=white)
+| Category | Topics & Tools |
+| :--- | :--- |
+| **Interactive UI** | Google Anti-gravity, 기술적 이스터 에그 연구 |
+| **AI & LLM** | Gemini, AI Studio, GPT, Claude, NotebookLM |
 
-💡 인터랙티브한 UI와 기술적 이스터 에그를 연구하며 사용자에게 즐거움을 주는 방법을 고민하고 있습니다.
+<br>
 
+> **💡 인터랙티브한 UI와 기술적 이스터 에그를 연구하며 사용자에게 즐거움을 주는 방법을 고민합니다.**
 </font>
 
 ---
 
-### Core Competencies
-- <b>비즈니스 기반 시스템 설계:</b> 10년의 온라인 채널 총괄 및 MD 경험을 바탕으로, 실무자의 니즈와 비즈니스 로직을 정확히 이해하여 유지보수가 용이한 Spring Boot 기반 아키텍처를 설계경험이 있습니다.
-- <b>위기 관리 및 책임감 있는 리더십:</b> 프로젝트 위기 상황에서 리더 역할을 자처하여 팀원의 역량에 맞춘 업무 재배분과 코드 리뷰를 통해 낙오자 없는 성공적인 프로젝트 완수를 이끌어낸 경험이 있습니다.
-- <b>실무형 AI 서비스 구현:</b> LLM 및 OpenAI API를 활용한 AI 법률상담 서비스 개발 경험을 통해, 단순 모델 구현을 넘어 실제 웹 서비스에 AI 기능을 안정적으로 연동한 경험이 있습니다.
-- <b>데이터 분석 및 예측 최적화:</b> Scikit-learn을 활용한 판매량 예측 모델링 및 LSTM 기반 시계열 분석 역량을 보유하고 있으며, 데이터 전처리와 결과 시각화를 통해 서비스의 가치를 높이고자 합니다.
-- <b>사용자 중심의 UI/UX 설계:</b> 페르소나 분석과 사용자 시선 흐름을 고려한 프론트엔드(React) 개발 및 이탈 방지를 위한 리다이렉트 로직 설계 등 '사용자 경험'을 최우선으로 구현하고자 합니다.
-- <b>지속 성장을 위한 자기 객관화:</b> 철저한 셀프 매니지먼트를 통해 안정적인 컨디션을 유지하며, 문제의 본질을 파악할 때까지 파고드는 집요함으로 최적의 효율을 내는 코드를 작성하고자 합니다.
+### 🚀 Core Competencies
+<font size="2">
+
+* **비즈니스 기반 시스템 설계**
+  * 10년의 MD 경험을 바탕으로 실무자의 니즈를 정확히 파악한 Spring Boot 아키텍처 설계
+* **위기 관리 및 리더십**
+  * 프로젝트 위기 시 업무 재배분 및 코드 리뷰를 통해 성공적인 프로젝트 완수 견인
+* **실무형 AI 서비스 구현**
+  * LLM 및 OpenAI API를 활용하여 실제 웹 서비스에 AI 기능을 안정적으로 연동
+* **데이터 분석 및 예측 최적화**
+  * Scikit-learn 및 LSTM 기반 시계열 분석을 통한 서비스 가치 제고
+* **사용자 중심 UI/UX 설계**
+  * 페르소나 분석 및 사용자 시선 흐름을 고려한 React 기반 인터페이스 구현
+* **지속 성장을 위한 자기 객관화**
+  * 철저한 셀프 매니지먼트와 집요함으로 최적의 효율을 내는 코드 작성
+
+</font>
 
 
 ---
