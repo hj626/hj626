@@ -57,43 +57,34 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jirasoftware&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white)
-
-</font><br>
----
-
-### 🎢 Interests & Fun
-<font size="2">
-
-| Category | Topics & Tools |
-| :--- | :--- |
-| **Interactive UI** | Google Anti-gravity, 기술적 이스터 에그 연구 |
-| **AI & LLM** | Gemini, AI Studio, GPT, Claude, NotebookLM |
-
-<br>
-
-> **💡 인터랙티브한 UI와 기술적 이스터 에그를 연구하며 사용자에게 즐거움을 주는 방법을 고민합니다.**
 </font>
 
+<hr style="border: 0; height: 1px; background: #eee; margin: 20px 0;">
+
+### AI Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Google_Anti--gravity-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75FF?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Studio-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/NotebookLM-34A853?style=flat-square&logo=google&logoColor=white" />
+</p><br>
+
+> "사용자에게 즐거움을 주는 **기술적 이스터 에그와 지능형 인터랙션을 연구**합니다."
 ---
 
-### 🚀 Core Competencies
+### Core Competencies
 <font size="2">
 
-* **비즈니스 기반 시스템 설계**
-  * 10년의 MD 경험을 바탕으로 실무자의 니즈를 정확히 파악한 Spring Boot 아키텍처 설계
-* **위기 관리 및 리더십**
-  * 프로젝트 위기 시 업무 재배분 및 코드 리뷰를 통해 성공적인 프로젝트 완수 견인
-* **실무형 AI 서비스 구현**
-  * LLM 및 OpenAI API를 활용하여 실제 웹 서비스에 AI 기능을 안정적으로 연동
-* **데이터 분석 및 예측 최적화**
-  * Scikit-learn 및 LSTM 기반 시계열 분석을 통한 서비스 가치 제고
-* **사용자 중심 UI/UX 설계**
-  * 페르소나 분석 및 사용자 시선 흐름을 고려한 React 기반 인터페이스 구현
-* **지속 성장을 위한 자기 객관화**
-  * 철저한 셀프 매니지먼트와 집요함으로 최적의 효율을 내는 코드 작성
+- **비즈니스 기반 시스템 설계:** <br> 다양한 프로그램을 접하여 사용자의 니즈를 정확히 파악하고, 유지보수가 용이한 아키텍처를 설계합니다.
+- **실무형 AI 서비스 구현:** <br> Gemini 등 LLM을 웹 서비스에 안정적으로 연동하여 실제 비즈니스에 활용 가능한 AI 기능을 구축합니다.
+- **데이터 분석 및 예측 최적화:** <br> Scikit-learn 및 LSTM 기반 시계열 분석을 통해 데이터 기반의 서비스 인사이트를 제공합니다.
+- **사용자 중심 UI/UX 설계:** <br> 페르소나 분석과 시선 흐름을 고려하여 사용자가 머무르고 싶은 인터페이스를 구현합니다.
+- **위기 관리 및 리더십:** <br> 프로젝트 위기 상황에서 리더 역할을 자처하며 팀의 결속과 성공적인 완수를 이끌어냅니다.
+- **지속 성장을 위한 자기 객관화:** <br> 철저한 셀프 매니지먼트를 통해 안정적인 퍼포먼스를 유지하며 본질에 집중하는 코드를 작성합니다.
 
 </font>
-
 
 ---
 
