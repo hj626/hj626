@@ -92,11 +92,19 @@
 
 <font size="2">
 
-#### ⚖️ AI 법률 상담 서비스 (Regal AI)
+#### ⚖️ AI 법률 상담 서비스 (Legal AI)
 > **Gemini LLM을 활용한 지능형 법률 자문 솔루션**
 - **Tech Stack:** Spring Boot, React, Oracle DB, Gemini API, FastAPI
 - **Key Features: ML/DL으로 AI hallucination 줄인 후 ** Gemini 기반 법률 질의응답 처리, React-Spring Boot 비동기 통신 구현
-- **Link:** [GitHub Repository](여기에_주소_붙여넣기) | [Demo Video](여기에_주소_붙여넣기)
+- **Link:** [GitHub Repository](https://github.com/DeepCodeLogicAI/LegalRiskAI.git) | [Demo Video](여기에_주소_붙여넣기)
+
+
+#### 일기를 통한 감정관리 AI 서비스(Emotionary AI)
+> **작성한 일기를 통하여 감정을 분석하고 관리해주는 AI서비스**
+- **Tech Stack:** Python, FastAPI, Gemini API, MariaDB, JavaScript, HTML/CSS
+- **Key Features:** Google AI Studio, chat gpt, MANUS등 AI Tool활용한 개
+- **Link:** [GitHub Repository](https://github.com/eeeunhey/daily-emotion-log.git) | [Demo Video](https://github.com/eeeunhey/daily-emotion-log/blob/main/video/emotionary_demo.mp4)
+
 
 #### 🍎 농산물 직거래 플랫폼 (바로Farm)
 > **생산자와 소비자를 직접 연결하는 실시간 커머스 웹**
@@ -114,7 +122,7 @@
 > **창작자와 후원자를 잇는 커뮤니티형 펀딩 플랫폼**
 - **Tech Stack:** Spring Framework, Oracle DB, JavaScript, Bootstrap
 - **Key Features:** 페르소나 기반 요구사항 정의 및 DB 설계, 사용자 이탈 방지를 위한 리다이렉트 로직 구현
-- **Link:** [GitHub Repository](여기에_주소_붙여넣기)
+- **Link:** [GitHub Repository](https://github.com/hj626/2nd_pro.git)
 
 #### 📦 쇼핑몰 어드민 (Console App)
 > **Java 기초 역량을 다진 CLI 기반 상품 관리 시스템**
