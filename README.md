@@ -71,7 +71,7 @@
   <img src="https://img.shields.io/badge/NotebookLM-34A853?style=flat-square&logo=google&logoColor=white" />
 </p><br>
 
-> "사용자에게 즐거움을 주는 **기술적 이스터 에그와 지능형 인터랙션을 연구**합니다."
+> "사용자에게 즐거움을 주는 **기술적 이스터 에그와 지능형 인터랙션**을 공부합니다."
 ---
 
 ### Core Competencies
@@ -116,13 +116,13 @@
 > **협업 효율을 높이는 업무 스케줄 관리 시스템**
 - **Tech Stack:** Spring Boot, JavaScript, MongoDB
 - **Key Features:** 팀별 업무 현황 공유 및 알림 기능, 캘린더 인터페이스 연동
-- **Link:** [GitHub Repository](여기에_주소_붙여넣기)
+- **Link:** [GitHub Repository](https://github.com/hj626/Full-stack-2nd-project.git)
 
 #### 🎢 펀디 (Fundy) - 크라우드 펀딩 사이트
 > **창작자와 후원자를 잇는 커뮤니티형 펀딩 플랫폼**
 - **Tech Stack:** Spring Framework, Oracle DB, JavaScript, Bootstrap
 - **Key Features:** 페르소나 기반 요구사항 정의 및 DB 설계, 사용자 이탈 방지를 위한 리다이렉트 로직 구현
-- **Link:** [GitHub Repository](https://github.com/hj626/2nd_pro.git)
+- **Link:** [GitHub Repository](https://github.com/hj626/Full-stack-1st-project.git)
 
 #### 📦 쇼핑몰 어드민 (Console App)
 > **Java 기초 역량을 다진 CLI 기반 상품 관리 시스템**
