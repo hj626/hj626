@@ -131,7 +131,7 @@ JAVA를 기준으로 역량개발을 하고 있습니다. </font>
 > **Java 기초 역량을 다진 CLI 기반 상품 관리 시스템**
 - **Tech Stack:** Java, Oracle DB 
 - **Key Features:** Collection Framework 기반 데이터 관리, 객체지향 설계를 통한 유지보수성 확보
-- **Link:** [GitHub Repository](여기에_주소_붙여넣기)
+- **Link:** [GitHub Repository](https://github.com/hj626/Console-based-Java-Project.git)
 
 </font>
 
