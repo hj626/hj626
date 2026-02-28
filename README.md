@@ -3,7 +3,7 @@
 # Hi, I'm Haley 👋
 
 **ERP, CRM, 쇼핑몰 등 다양한 도메인 경험을 바탕으로**<br>
-**사용자의 입장에서 프로그램을 이해하고 개발합니다.**
+**사용자의 입장에서 프로그램을 이해하고 개발하고자 합니다.**
 <br>
 <br><br>
 
@@ -77,12 +77,12 @@
 ### Core Competencies
 <font size="2">
 
-- **비즈니스 기반 시스템 설계:** <br> 다양한 프로그램을 접하여 사용자의 니즈를 정확히 파악하고, 유지보수가 용이한 아키텍처를 설계합니다.
-- **실무형 AI 서비스 구현:** <br> Gemini 등 LLM을 웹 서비스에 안정적으로 연동하여 실제 비즈니스에 활용 가능한 AI 기능을 구축합니다.
-- **데이터 분석 및 예측 최적화:** <br> Scikit-learn 및 LSTM 기반 시계열 분석을 통해 데이터 기반의 서비스 인사이트를 제공합니다.
-- **사용자 중심 UI/UX 설계:** <br> 페르소나 분석과 시선 흐름을 고려하여 사용자가 머무르고 싶은 인터페이스를 구현합니다.
+- **비즈니스 기반 시스템 설계:** <br> 다양한 프로그램을 접하여 사용자의 니즈를 정확히 파악한 후 기능을 정리하여 아키텍처를 설계하고자 합니다.
+- **실무형 AI 서비스 구현:** <br> Gemini 등 LLM을 웹 서비스에 안정적으로 연동하여 실제 비즈니스에 활용 가능한 AI 기능을 구축한 경험이 있습니다.
+- **데이터 분석 및 예측 최적화:** <br> Scikit-learn 및 LSTM 기반 시계열 분석을 통해 데이터 기반의 서비스 인사이트를 제공해 보았습니다.
+- **사용자 중심 UI/UX 설계:** <br> 페르소나 분석과 시선 흐름을 고려하여 사용자가 머무르고 싶은 인터페이스를 구현하고자 합니다.
 - **위기 관리 및 리더십:** <br> 프로젝트 위기 상황에서 리더 역할을 자처하며 팀의 결속과 성공적인 완수를 이끌어냅니다.
-- **지속 성장을 위한 자기 객관화:** <br> 철저한 셀프 매니지먼트를 통해 안정적인 퍼포먼스를 유지하며 본질에 집중하는 코드를 작성합니다.
+- **지속 성장을 위한 자기 객관화:** <br> 철저한 셀프 매니지먼트를 통해 안정적인 퍼포먼스를 유지하며 본질에 집중하는 코드를 작성하고자 합니다.
 
 </font>
 
@@ -102,7 +102,7 @@
 #### 일기를 통한 감정관리 AI 서비스(Emotionary AI)
 > **작성한 일기를 통하여 감정을 분석하고 관리해주는 AI서비스**
 - **Tech Stack:** Python, FastAPI, Gemini API, MariaDB, JavaScript, HTML/CSS
-- **Key Features:** Google AI Studio, chat gpt, MANUS등 AI Tool활용한 개
+- **Key Features:** Google AI Studio, chat gpt, MANUS등 AI Tool활용한 개발 프로젝
 - **Link:** [GitHub Repository](https://github.com/eeeunhey/daily-emotion-log.git) | [Demo Video](https://github.com/eeeunhey/daily-emotion-log/blob/main/video/emotionary_demo.mp4)
 
 
@@ -110,7 +110,7 @@
 > **생산자와 소비자를 직접 연결하는 실시간 커머스 웹**
 - **Tech Stack:** Spring Boot, React, MongoDB
 - **Key Features:** NoSQL(MongoDB)을 활용한 유연한 상품 데이터 관리, REST API 기반 CRUD 구현
-- **Link:** [GitHub Repository](여기에_주소_붙여넣기)
+- **Link:** [GitHub Repository](https://github.com/hj626/Full-stack-final-project.git)
 
 #### 📅 업무 스케줄러 프로그램
 > **협업 효율을 높이는 업무 스케줄 관리 시스템**
