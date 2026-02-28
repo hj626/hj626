@@ -17,12 +17,15 @@
 ---
 
 ### 🛠 Tech Stack
-
-<font size="2">
+<font size="1">
+JAVA를 기준으로 역량개발을 하고 있습니다. </font>
+<br>
 <br>
 
+<font size="2">
+  
 **Backend**
-✨✨![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
