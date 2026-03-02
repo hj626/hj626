@@ -109,7 +109,7 @@ JAVA를 기준으로 역량개발을 하고 있습니다. </font>
 - **Link:** [GitHub Repository](https://github.com/eeeunhey/daily-emotion-log.git) | [Demo Video](https://github.com/eeeunhey/daily-emotion-log/blob/main/video/emotionary_demo.mp4)
 
 
-#### 🍎 농산물 직거래 플랫폼 (바로Farm)
+#### 🍎 농산물 직거래 플랫폼 (농사Farm)
 > **생산자와 소비자를 직접 연결하는 실시간 커머스 웹**
 - **Tech Stack:** Spring Boot, React, MongoDB
 - **Key Features:** NoSQL(MongoDB)을 활용한 유연한 상품 데이터 관리, REST API 기반 CRUD 구현
