@@ -113,7 +113,7 @@ JAVA를 기준으로 역량개발을 하고 있습니다. </font>
 > **생산자와 소비자를 직접 연결하는 실시간 커머스 웹**
 - **Tech Stack:** Spring Boot, React, MongoDB
 - **Key Features:** NoSQL(MongoDB)을 활용한 유연한 상품 데이터 관리, REST API 기반 CRUD 구현
-- **Link:** [GitHub Repository](https://github.com/hj626/Full-stack-final-project.git)
+- **Link:** [GitHub Repository](https://github.com/hj626/Full-stack-final-project.git)  | [Demo Video](https://github.com/hj626/Full-stack-final-project/blob/main/video/Final%20project.mp4)
 
 #### 📅 업무 스케줄러 프로그램
 > **협업 효율을 높이는 업무 스케줄 관리 시스템**
