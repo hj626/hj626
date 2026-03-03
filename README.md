@@ -106,7 +106,7 @@ JAVA를 기준으로 역량개발을 하고 있습니다. </font>
 > **작성한 일기를 통하여 감정을 분석하고 관리해주는 AI서비스**
 - **Tech Stack:** Python, FastAPI, Gemini API, MariaDB, JavaScript, HTML/CSS
 - **Key Features:** Google AI Studio, chat gpt, MANUS등 AI Tool활용한 개발 프로젝
-- **Link:** [GitHub Repository](https://github.com/eeeunhey/daily-emotion-log.git) | [Demo Video](https://github.com/eeeunhey/daily-emotion-log/blob/main/video/emotionary_demo.mp4)
+- **Link:** [GitHub Repository](https://github.com/eeeunhey/daily-emotion-log.git) | [Demo Video](https://github.com/hj626/daily-emotion-log/blob/main/video/emotionary_demo.mp4)
 
 
 #### 🍎 농산물 직거래 플랫폼 (농사Farm)
