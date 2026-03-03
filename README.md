@@ -99,7 +99,7 @@ JAVA를 기준으로 역량개발을 하고 있습니다. </font>
 > **Gemini LLM을 활용한 지능형 법률 자문 솔루션**
 - **Tech Stack:** Spring Boot, React, Oracle DB, Gemini API, FastAPI
 - **Key Features: ML/DL으로 AI hallucination 줄인 후 ** Gemini 기반 법률 질의응답 처리, React-Spring Boot 비동기 통신 구현
-- **Link:** [GitHub Repository](https://github.com/DeepCodeLogicAI/LegalRiskAI.git)
+- **Link:** [GitHub Repository](https://github.com/hj626/LegalRiskAI.git)
 
 
 #### 일기를 통한 감정관리 AI 서비스(Emotionary AI)
